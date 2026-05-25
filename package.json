@@ -1,0 +1,19 @@
+{
+  "name": "ik_video_creation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "csv-parser": "^3.2.1",
+    "csv-writer": "^1.6.0",
+    "googleapis": "^171.4.0",
+    "playwright": "^1.59.1"
+  }
+}
